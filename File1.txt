@@ -1,5 +1,2 @@
 1st line in the file
 2nd line in the file
-3rd line in local master
-
-5th line in local branch
